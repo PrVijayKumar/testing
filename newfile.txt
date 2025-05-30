@@ -3,7 +3,7 @@ secret = "123"
 :!exit
 :q
 A
-A
+SECRET = "123"
 A
 A
 A
